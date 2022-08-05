@@ -1,6 +1,6 @@
 # AirBnB Clone
 
-# <a href="url"><img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2018/6/65f4a1dd9c51265f49d0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220805%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220805T222942Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=bc340452b8cc3cb901f97258db46269fc92b23dfe2b9af2f25ded38ed8551faf" align="middle" width="100" height="100"></a> AirBnB_Clone
+# <a href="url"><img src="https://news.airbnb.com/wp-content/uploads/sites/4/2017/01/airbnb_vertical_lockup_web.png" align="middle" width="100" height="100"></a> AirBnB_Clone
 
 ## Instructions & Requirements
 ## Python Scripts
@@ -49,44 +49,44 @@ Ohia Jane Chidera | [GitHub](https://github.com/OhiaJanny) | [Twitter](https://t
 AirBnB_Clone is open source and therefore free to download and use without permission.
 
 
-Hello Jane, We are to delete the following:
-I delete this
-You delete this
-I delete this
-You delete this
-I delete this
-You delete this
-I delete this
-You delete this
-I delete this
-You delete this
-I delete this
-You delete this
-I delete this
-You delete this
-I delete this
-You delete this
-I delete this
-You delete this
-I delete this
-You delete this
-I delete this
-You delete this
-I delete this
-You delete this
-I delete this
-You delete this
-I delete this
-You delete this
-I delete this
-You delete this
-I delete this
-You delete this
-I delete this
-You delete this
-I delete this
-You delete this
-I delete this
-You delete this
-I delete this
-You delete this
+Hello Jane, We are to delete the following:<br>
+I delete this<br>
+You delete this<br>
+I delete this<br>
+You delete this<br>
+I delete this<br>
+You delete this<br>
+I delete this<br>
+You delete this<br>
+I delete this<br>
+You delete this<br>
+I delete this<br>
+You delete this<br>
+I delete this<br>
+You delete this<br>
+I delete this<br>
+You delete this<br>
+I delete this<br>
+You delete this<br>
+I delete this<br>
+You delete this<br>
+I delete this<br>
+You delete this<br>
+I delete this<br>
+You delete this<br>
+I delete this<br>
+You delete this<br>
+I delete this<br>
+You delete this<br>
+I delete this<br>
+You delete this<br>
+I delete this<br>
+You delete this<br>
+I delete this<br>
+You delete this<br>
+I delete this<br>
+You delete this<br>
+I delete this<br>
+You delete this<br>
+I delete this<br>
+You delete this<br>
