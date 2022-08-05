@@ -1,6 +1,6 @@
 # AirBnB Clone
 
-# <a href="url"><img src="https://news.airbnb.com/wp-content/uploads/sites/4/2017/01/airbnb_vertical_lockup_web.png" align="middle" width="100" height="100"></a> AirBnB_Clone
+# <a href="url"><img src="https://news.airbnb.com/wp-content/uploads/sites/4/2017/01/airbnb_vertical_lockup_web.png" align="middle" width="100" height="100"></a> <br> AirBnB_Clone Project By Ogundare Abdulahi & Ohia Jane
 
 ## Instructions & Requirements
 ## Python Scripts
